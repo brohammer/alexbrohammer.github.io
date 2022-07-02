@@ -34,15 +34,6 @@ img {
   display: inline-block;
 }
 
-img + em {
-  text-align: center;
-  display: block;
-  margin-top: 10px;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-}
-
 blockquote {
   border-left: 5px solid #000;
   padding-left: 1.1rem;
@@ -53,19 +44,13 @@ blockquote {
 
 pre {
   padding: 1rem 2rem;
-  overflow: auto;
+  overflow-x: auto;
   white-space: pre-wrap;
-  word-wrap: break-word;
-  word-break: break-all;
 
   code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
-    overflow: auto;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    word-break: break-all;
   }
 }
 
@@ -142,6 +127,17 @@ table tfoot td {
   clear: both;
 }
 
+a {
+  color: $blue;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  a {
+    color: $dark;
+  }
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
 
@@ -153,5 +149,6 @@ table tfoot td {
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 @import 'media';
+
 /* - - - - - - - - - - Page Styles - - - - - - - - - - */
 @import 'parts/page-includes';

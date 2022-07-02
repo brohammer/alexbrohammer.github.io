@@ -12,7 +12,7 @@
         <li><a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
       {% endif %}
       {% if site.youtube %}
-        <li><a href="https://youtube.com/{{ site.youtube }}" target="_blank"><i class="fab fa-youtube-play" aria-hidden="true"></i></a></li>
+        <li><a href="https://youtube.com/{{ site.youtube }}" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
       {% endif %}
       {% if site.facebook %}
         <li><a href="https://facebook.com/{{ site.facebook }}" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
@@ -25,6 +25,9 @@
       {% endif %}
       {% if site.email %}
         <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% endif %}
+      {% if site.google_scholar %}
+        <li class="google_scholar"><a href="https://scholar.google.com/citations?user={{site.google_scholar}}" target="_blank"><i class="fa fa-user-graduate"></i></a></li>
       {% endif %}
     </ul>
   </section> <!-- End Section Contact -->
