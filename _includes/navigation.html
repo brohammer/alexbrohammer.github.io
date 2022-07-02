@@ -1,18 +1,26 @@
 <nav class="main-nav">
+    <img src="/assets/img/corn_profile.jpg" alt="Zea mays in the wild" style="max-width: 150px; border-radius: 5px;">
+    <div style="font-size: 12px; margin-top: 4px; margin-bottom: 40px;"></div>
     {% if page.url != "/about/" %}
-            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}about">About</a></h3>
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}about/">About</a></h3>
     {% else %}
             <h3 class="nav-link">About</h3>
     {% endif %}
+    {% if page.url != "/alexbrohammer-resume.pdf" %}
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}resume/alexbrohammer-resume.pdf">Resume</a></h3>
+    {% else %}
+            <h3 class="nav-link">Resume</h3>
+    {% endif %}
+
 
     {% if page.url != "/work/" %}
-            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}work">Work</a></h3>
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}work/">Work</a></h3>
     {% else %}
             <h3 class="nav-link">Work</h3>
     {% endif %}
 
     {% if page.url != "/blog/" %}
-            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog">Blog</a></h3>
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog/">Blog</a></h3>
     {% else %}
             <h3 class="nav-link">Blog</h3>
     {% endif %}
