@@ -18,5 +18,20 @@ title: Resume
 **M.S. Crop Sciences**<span style="float:right;">Aug 2012 - May 2014</span><br>
 Department of Crop Sciences; University of Illinois, Urbana-Champaign<br>
 
-**Ph.D. Applied Plant Sciences**<span style = float:right;">Aug 2014 - June 2018</span><br>
-Department of Agronomy and Plant Genetics; University of Minnesota Twin Cities<br> 
+**Ph.D. Applied Plant Sciences**<span style=float:right;">Aug 2014 - June 2018</span><br>
+Department of Agronomy and Plant Genetics; University of Minnesota Twin Cities<br>
+
+## EXPERIENCE
+
+### Industry  
+
+**Senior Data Scientist**<span style="float:right;">June 2018 – Present</span><br>
+[Bayer Crop Science](https://www.cropscience.bayer.us/), Bayer Crop Science, St. Louis, MO<br>
+
+### Academia  
+
+## PUBLICATIONS
+
+## SERVICE
+
+## AWARDS
