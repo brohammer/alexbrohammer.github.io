@@ -26,13 +26,13 @@ Department of Agronomy and Plant Genetics; University of Minnesota Twin Cities<b
 ### Industry  
 
 **Senior Data Scientist**<span style="float:right;">June 2018 – Present</span><br>
-[Bayer Crop Science](https://www.cropscience.bayer.us/); Bayer; St. Louis, MO<br>
-**Corn Breeding Intern**<span style="float:right;">Dec 2013<br>
-Plat Breeding; BASF; Kauai, HI<br>
-**Plant Biotechnology Intern**<span style="float:right;">May 2011 – Aug 2011<br>
-Plant Biotechnology; Monsanto Comapany; St. Louis, MO<br>
-**Product Research and Development Intern**<span style="float:right;">May 2010 – Aug 2010<br>
-Plant Breeding; DuPont Pioneer; Ivesdale, IL<br>
+[Bayer Crop Science](https://www.cropscience.bayer.us/); Bayer; St. Louis, MO<br>  
+**Corn Breeding Intern**<span style="float:right;">Dec 2013<br>  
+Plant Breeding; BASF; Kauai, HI<br>  
+**Plant Biotechnology Intern**<span style="float:right;">May 2011 – Aug 2011<br>  
+Plant Biotechnology; Monsanto Comapany; St. Louis, MO<br>  
+**Product Research and Development Intern**<span style="float:right;">May 2010 – Aug 2010<br>  
+Plant Breeding; DuPont Pioneer; Ivesdale, IL<br>  
 
 ### Academia  
 
